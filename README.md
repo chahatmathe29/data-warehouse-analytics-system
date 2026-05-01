@@ -24,3 +24,5 @@ CSV Data → Python ETL → MySQL → Analysis → Dashboard → ML Prediction
 pip install -r requirements.txt
 python etl.py
 streamlit run app.py
+
+[Dashboard](dashboard.png)
