@@ -25,4 +25,14 @@ pip install -r requirements.txt
 python etl.py
 streamlit run app.py
 
-[Dashboard](dashboard.png)
+## 📸 Project Output
+
+Below are sample outputs demonstrating data processing, visualization, and prediction capabilities of the system.
+## 📈 Dashboard
+![Dashboard](dashboard.png)
+
+## 🗄️ Database
+![Database](database.png)
+
+## 🤖 ML Predictions
+![ML Output](ml_output.png)
